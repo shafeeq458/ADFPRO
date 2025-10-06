@@ -1,0 +1,9 @@
+{
+	"name": "realdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3709e09c-4c97-44a3-aace-b469359cdded",
+		"tenantId": "67019a9f-12b2-4c7a-bc70-879c93795c67"
+	}
+}
