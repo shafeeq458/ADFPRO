@@ -1,0 +1,9 @@
+{
+	"name": "anshadfproject",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29096595-c133-4bb3-958a-99b3b6b8de3b",
+		"tenantId": "67019a9f-12b2-4c7a-bc70-879c93795c67"
+	}
+}
